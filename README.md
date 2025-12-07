@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Physical AI & Humanoid Robotics Interactive Textbook
 
 > An AI-native, interactive educational platform for learning Physical AI, ROS 2, Gazebo, Isaac Sim, and Vision-Language-Action (VLA) models with intelligent chatbot assistance, text-to-speech narration, and multi-language support.
@@ -628,3 +629,6 @@ SOFTWARE.
 **Made with ❤️ for the future of AI education - Areeba Qureshi**
 
 **Last Updated**: December 2025
+=======
+# AI-Native-book
+>>>>>>> 578d09358e69e305562833664f30f789fc748d5e
