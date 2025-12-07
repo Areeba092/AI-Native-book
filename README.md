@@ -593,7 +593,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2025 Ashna Ghazanfar
+Copyright (c) 2025 Areeba Qureshi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -618,27 +618,13 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
-**Author**: Ashna Ghazanfar
-**Email**: nutellacookiesss@gmail.com
-**GitHub**: [@Syedaashnaghazanfar](https://github.com/Syedaashnaghazanfar)
-**Project Repository**: [speckit-book-hackathon.io](https://github.com/Syedaashnaghazanfar/speckit-book-hackathon.io)
-
-### **Getting Help**
-
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/Syedaashnaghazanfar/speckit-book-hackathon.io/issues)
-- 💡 **Feature Requests**: [Open a discussion](https://github.com/Syedaashnaghazanfar/speckit-book-hackathon.io/discussions)
-- 📧 **Email**: For private inquiries
+**Author**: Areeba Qureshi
+**Email**: areebaq491@gmail.com
+**GitHub**: [@Areeba092](https://github.com/Areeba092?tab=repositories)
+**Project Repository**: [speckit-book-hackathon.io](https://github.com/Areeba092/AI-Native-book)
 
 ---
 
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐ on GitHub!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Syedaashnaghazanfar/speckit-book-hackathon.io&type=Date)](https://star-history.com/#Syedaashnaghazanfar/speckit-book-hackathon.io&Date)
-
----
-
-**Made with ❤️ for the future of AI education - Ashna Ghazanfar**
+**Made with ❤️ for the future of AI education - Areeba Qureshi**
 
 **Last Updated**: December 2025
