@@ -10,11 +10,6 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)](https://vercel.com)
 [![Backend on HF](https://img.shields.io/badge/Backend-Hugging%20Face-yellow?logo=huggingface)](https://huggingface.co/)
 
-## 🌟 Live Demo
-
-- **Frontend**: [https://speckit-book-hackathon-io.vercel.app/](https://speckit-book-hackathon-io.vercel.app/)
-- **Backend API**: [https://ashnaali22-hackhathon-backend.hf.space](https://ashnaali22-hackhathon-backend.hf.space)
-- **API Documentation**: [https://ashnaali22-hackhathon-backend.hf.space/docs](https://ashnaali22-hackhathon-backend.hf.space/docs)
 
 ---
 
